@@ -19,5 +19,4 @@ def S_sphere(r):
     return round(3.14 * (r ** 2))
 
 
-if __name__ != "__main__":
-    print("Запустите math_main.")
+

@@ -23,5 +23,3 @@ def CP(m, n):
     return factorial(n) / factorial(n-m)
 
 
-if __name__ != "__main__":
-    print("Запустите math_main.")
